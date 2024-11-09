@@ -2,10 +2,12 @@
   "name": "ip-hck75",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "npx jest --verbose --detectOpenHandles --forceExit --runInBand --coverage",
-    "dev": "nodemon bin/www"
+    "dev": "node bin/www",
+    "start": "node bin/www",
+    "build":"echo 'Nothing to build'"
   },
   "keywords": [],
   "author": "",
