@@ -1,0 +1,18 @@
+[
+    {
+        "fullname": "M. Bagus Pramaskoro",
+        "nickname": "Bagus",
+        "phoneNumber":"082280817771",
+        "address":"Depok",
+        "gender":"Man",
+        "UserId":"1"
+    },
+    {
+        "fullname": "Rexit",
+        "nickname": "Rexit",
+        "phoneNumber":"089631534012",
+        "address":"Depok",
+        "gender":"Man",
+        "UserId":"2"
+    }
+]

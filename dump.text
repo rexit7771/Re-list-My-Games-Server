@@ -1,0 +1,3 @@
+npx sequelize model:generate --name Profile --attributes fullname:string,nickname:string,phone:string,address:string,gender:string,UserId:integer
+npx sequelize model:generate --name FavoriteGame --attributes GameId:integer,UserId:integer
+npx sequelize seed:generate --name seed-favoriteGame
